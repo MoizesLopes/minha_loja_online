@@ -1,0 +1,83 @@
+[
+  {
+    "id": "p1",
+    "nome": "Paçoca Grande Rolha",
+    "descricao": "52g",
+    "preco": 2.5,
+    "categoria": "Doces",
+    "imagem": "https://example.com/pacoca_grande.jpg",
+    "quantidade": 118
+  },
+  {
+    "id": "p2",
+    "nome": "Paçoca Quadrada",
+    "descricao": "80g",
+    "preco": 2.5,
+    "categoria": "Doces",
+    "imagem": "",
+    "quantidade": 79
+  },
+  {
+    "id": "p3",
+    "nome": "Paçoca Pequena",
+    "descricao": "15g",
+    "preco": 1.0,
+    "categoria": "Doces",
+    "imagem": "",
+    "quantidade": 195
+  },
+  {
+    "id": "p4",
+    "nome": "Salgadinho Presunto",
+    "descricao": "35g",
+    "preco": 3.0,
+    "categoria": "Roupas",
+    "imagem": "",
+    "quantidade": 60
+  },
+  {
+    "id": "p5",
+    "nome": "Salgadinho Bacon",
+    "descricao": "35g",
+    "preco": 2.5,
+    "categoria": "Acessórios",
+    "imagem": "",
+    "quantidade": 75
+  },
+  {
+    "id": "p6",
+    "nome": "Salgadinho de Churrasco",
+    "descricao": "50g",
+    "preco": 2.5,
+    "categoria": "Acessórios",
+    "imagem": "",
+    "quantidade": 90
+  },
+  {
+    "id": "p7",
+    "nome": "Pizza de Palitos de Salgadinho",
+    "descricao": "50g",
+    "preco": 2.5,
+    "categoria": "Acessórios",
+    "imagem": "",
+    "quantidade": 85
+  },
+  {
+    "id": "p8",
+    "nome": "Salgadinho Pururuca",
+    "descricao": "26g",
+    "preco": 8.0,
+    "categoria": "Bebidas",
+    "imagem": "",
+    "quantidade": 40
+  },
+  {
+    "id": "p9",
+    "nome": "Trento Alegre",
+    "descricao": "26g",
+    "preco": 3.5,
+    "categoria": "Acessórios",
+    "imagem": "",
+    "quantidade": 100
+  }
+]
