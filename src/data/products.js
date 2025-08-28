@@ -1,5 +1,5 @@
 export const PRODUCTS = [
-  { id:'p1', name:'Chocolate Artesanal 70%', description:'Barra 100g – cacau selecionado.', price:18.9, category:'Doces', img:'https://placehold.co/600x400/png?text=Chocolate+70%25' },
+  { id:'p1', name:'Paçoca Big Rolha', description:'52g', price:18.9, category:'Doces', img:'https://placehold.co/600x400/png?text=Chocolate+70%25' },
   { id:'p2', name:'Paçoca Premium', description:'Pacote com 10 unidades.', price:14.5, category:'Doces', img:'https://placehold.co/600x400/png?text=Pacoca' },
   { id:'p3', name:'Salgadinho de Milho', description:'Sabor churrasco – 90g.', price:7.9, category:'Salgadinhos', img:'https://placehold.co/600x400/png?text=Salgadinho' },
   { id:'p4', name:'Camiseta Básica', description:'100% algodão – várias cores.', price:39.9, category:'Roupas', img:'https://placehold.co/600x400/png?text=Camiseta' },
