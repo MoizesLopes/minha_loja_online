@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "nome": "Paçoca BIG Rolha",
+        "preco": 2.50
+    },
+    {
+        "id": 2,
+        "nome": "Paçoca Quadraga",
+        "preco": 2.50
+    },
+    {
+        "id": 3,
+        "nome": "Paçoca Pequena",
+        "preco": 1.00
+    }
+]
